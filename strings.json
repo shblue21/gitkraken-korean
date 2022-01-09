@@ -124,13 +124,13 @@
     "SendUsFeedback": "피드백 보내기",
     "GetSupport": "지원 받기",
     "KeyboardShortcuts": "바로 가기 키 열기",
-    "OpenFuzzyFinder": "Open Command Palette",
+    "OpenFuzzyFinder": "명령 팔레트 열기",
     "FollowUsOnTwitter": "트위터 팔로잉",
   },
   "strings": {
     "About-OpenSource": "The GitKraken Client uses some fine open source projects:",
     "About-Libgit2License": "The libgit2 library is used via NodeGit under the GNU public license with a linking exception",
-    "About-TermsOfService": "Terms of Service",
+    "About-TermsOfService": "이용 약관",
     "About-OpenSourceLicenses": "Dependent Open Source Licenses",
     "About-Company": "Axosoft, LLC DBA GitKraken",
     "About-AllRightsReserved": "All rights reserved",
@@ -154,10 +154,10 @@
 
     "OpenInFileManager": "Open in file manager",
 
-    "Repo-Close": "Close repository",
-    "Repo-Delete": "Delete repository",
+    "Repo-Close": "저장소 닫기",
+    "Repo-Delete": "저장소 삭제",
     "Repo-ClearFromRecentRepositories": "Clear {0} from recent repositories",
-    "Repo-Open": "Open repository",
+    "Repo-Open": "저장소 열기",
     "Repo-OpenInDefaultTerminal": "Open in default external terminal",
     "Repo-OpenInTerminalTab": "Open this repo in a Terminal Tab",
 
