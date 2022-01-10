@@ -77,8 +77,8 @@
     "RunTests": "테스트 실행...",
     "ToggleDeveloperTools": "개발자 도구 설정/해제(T)",
     "ToggleDeveloper&Tools": "개발자 도구 설정/해제(&T)",
-    "ToggleMainProcessDeveloperTools": "Toggle Main Process Developer Tools",
-    "ToggleMainProcessDeveloper&Tools": "Toggle Main Process Developer &Tools",
+    "ToggleMainProcessDeveloperTools": "Toggle Main Process Developer Tools(T)",
+    "ToggleMainProcessDeveloper&Tools": "Toggle Main Process Developer Tools(&T)",
     "PrintPerformanceTimingsToTerminal": "Print Performance Timings to Terminal",
 
     "Tabs": "탭",
@@ -136,18 +136,18 @@
     "About-AllRightsReserved": "All rights reserved",
     "About-Version": "GitKraken Client Version {0}",
 
-    "Application": "Application",
+    "Application": "어플리케이션",
 
     "Bytes": "bytes",
 
     "By": "{0} by ",
 
-    "Cli-TerminalPreviewButton": "CLI Preview",
+    "Cli-TerminalPreviewButton": "CLI 미리보기",
 
     "NoMatches": "No matches",
     "NoFilterMatches": "No results matching filter",
 
-    "QuitGitKraken": "Quit GitKraken",
+    "QuitGitKraken": "GitKraken 종료",
 
     "Done": "Done",
     "Or": "or",
@@ -161,19 +161,19 @@
     "Repo-OpenInDefaultTerminal": "Open in default external terminal",
     "Repo-OpenInTerminalTab": "Open this repo in a Terminal Tab",
 
-    "Registration-ChangeEmail": "Sign into a different account",
-    "Registration-CheckStatus": "Check Status",
+    "Registration-ChangeEmail": "다른 계정으로 로그인",
+    "Registration-CheckStatus": "상태 확인",
     "Registration-PrivateRepoDetected": "This appears to be a private repository",
-    "Registration-PrivateRepoDetectedContent": "The free version of GitKraken does not support opening private or self-hosted repositories.",
-    "Registration-CreateAccount": "Create a GitKraken Account",
-    "Registration-CreatingAccount": "Creating Account...",
+    "Registration-PrivateRepoDetectedContent": "GitKraken 무료 버전은 does not support opening private or self-hosted repositories.",
+    "Registration-CreateAccount": "GitKraken 계정 만들기",
+    "Registration-CreatingAccount": "계정 생성 중...",
     "Registration-DontWantAccount": "I don't want to create an account right now",
     "Registration-EmailDefault": "(defaults to git configs user.email)",
     "Registration-EmailAddress": "Email",
     "Registration-EnterEmailAddress": "Enter email address",
     "Registration-EnterName": "Enter name",
     "Registration-SelfHostedLoginFailedDueToNoLicense": "Your account does not have an active GitKraken Self-Hosted license.",
-    "Registration-ForgotPassword": "I forgot my password",
+    "Registration-ForgotPassword": "비밀번호를 잊으셨나요?",
     "Registration-GoBackToSelfHostedConfiguration": "Change the URL of the GitKraken Self-Hosted server",
     "Registration-GoingUnregistered": "You can use GitKraken for {0} days before creating or signing into an account.",
     "Registration-LdapUsername": "Username",
@@ -186,7 +186,7 @@
     "Registration-HaveNotRegistered": "You have not verified your email address yet",
     "Registration-iHaveReadAndAgreeToThe": "I have read and agree to the ",
     "Registration-iAgree": "I Agree",
-    "Registration-Password": "Password",
+    "Registration-Password": "비밀번호",
     "Registration-ConfirmPassword": "Confirm Password",
     "Registration-Register": "Register",
     "Registration-ResendEmail": "Send Again",
@@ -261,9 +261,9 @@
     "InitialCliGuiChoice-GUI-Message": "Clearly visualize the most helpful information about your repositories, with easy access to the commit graph, work in progress, pull requests, issues, teams and more.",
 
 
-    "Role-Admin": "Admin",
+    "Role-Admin": "관리자",
     "Role-Billing": "Billing Contact",
-    "Role-Owner": "Owner",
+    "Role-Owner": "소유자",
 
     "SelfHostedConfiguration-Title": "Configure GitKraken Self-Hosted",
     "SelfHostedConfiguration-EnterHostname": "Please paste the URL provided on the GitKraken download page:",
