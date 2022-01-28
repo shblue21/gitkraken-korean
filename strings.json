@@ -254,10 +254,10 @@
     "InitialCliGuiChoice-Title": "어떤 화면으로 GitKraken를 시작하시겠습니까?",
     "InitialCliGuiChoice-Subtitle": "Either of these views can be accessed at any time by creating a new tab",
     "InitialCliGuiChoice-CLI-Title": "터미널 탭",
-    "InitialCliGuiChoice-CLI-Button": "Start with a Terminal Tab",
+    "InitialCliGuiChoice-CLI-Button": "터미널 탭으로 GitKraken 시작",
     "InitialCliGuiChoice-CLI-Message": "A terminal-first experience, enhanced by the GitKraken CLI with features like autocomplete suggestions and repository visualizations that can be accessed via the",
     "InitialCliGuiChoice-GUI-Title": "저장소 탭",
-    "InitialCliGuiChoice-GUI-Button": "Start with a Repo Tab",
+    "InitialCliGuiChoice-GUI-Button": "저장소 탭으로 GitKraken 시작",
     "InitialCliGuiChoice-GUI-Message": "Clearly visualize the most helpful information about your repositories, with easy access to the commit graph, work in progress, pull requests, issues, teams and more.",
 
 
@@ -276,7 +276,7 @@
     "LicenseExpirationWarning-Tomorrow": "License expires in 1 day!",
     "LicenseExpirationWarning-Today": "License expires in less than a day!",
 
-    "Standalone-LicenseConfigurationTitle": "Stand-Alone License",
+    "Standalone-LicenseConfigurationTitle": "독립 실행형 라이선스",
     "Standalone-LicenseInfoForActive": "Licensed to {0} for {1} users",
     "Standalone-LicenseInfoForActiveExpiresSoon": "Licensed to {0} for {1} users. Expires in {2} days",
     "Standalone-LicenseInfoExpiresTomorrow": "Licensed to {0} for {1} users. Expires in {2} day",
