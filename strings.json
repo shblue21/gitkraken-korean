@@ -380,15 +380,15 @@
     "StashMessage-Rebase": "Auto stash before rebase of \"{0}\"",
     "StashMessage-Revert": "Auto stash before revert of \"{0}\"",
 
-    "Ignore": "Ignore",
-    "IgnoreFile": "Ignore '{0}'",
-    "IgnoreNFiles": "Ignore {0} files",
+    "Ignore": "무시",
+    "IgnoreFile": "무시 '{0}'",
+    "IgnoreNFiles": "{0} 파일 무시",
 
     "AllFilesWithSameExtension": "All files with the extension '{0}'",
     "AllFilesInFolder": "All files in '{0}/'",
     "IgnoreAllFilesInFolder": "Ignore all files in '{0}/'",
 
-    "File-AlreadyExists": "File '{0}' already exists",
+    "File-AlreadyExists": "'{0}' 파일이 이미 있습니다.",
     "File-Blame": "File Blame",
     "File-CanOnlyEditText": "Only text files can be edited",
     "File-CouldNotOpenInEditor": "Could not open file in editor",
@@ -547,11 +547,11 @@
     "LeftPanelAddUserForkRow-AddRemoteButtonLabel": "Add",
     "LeftPanelAddUserForkRow-AddThisFork": "Add this fork as a remote",
 
-    "TextOperation-Cut": "Cut",
-    "TextOperation-Copy": "Copy",
+    "TextOperation-Cut": "잘라내기",
+    "TextOperation-Copy": "복사하기",
     "TextOperation-CopyFileContentsToClipboard": "Copy file contents to clipboard",
-    "TextOperation-CopySuccess": "Copied!",
-    "TextOperation-Paste": "Paste",
+    "TextOperation-CopySuccess": "복사됨!",
+    "TextOperation-Paste": "붙여넣기",
     "TextOperation-Delete": "Delete",
     "TextOperation-SelectAll": "Select All",
 
