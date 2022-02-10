@@ -915,7 +915,7 @@
     "Profile-DeleteLower": "삭제",
     "Profile-DeleteProfile": "프로필 삭제",
     "Profile-DeleteProfileWarning": "This action cannot be undone",
-    "Profile-Description": "GitKraken uses 프로필ㄴ to store your application preferences as well as git config information. The preferences you set after installing are set as your default profile. Pro plans allow you to create additional profiles and quickly switch between them for different work environments.",
+    "Profile-Description": "GitKraken uses 프로필s to store your application preferences as well as git config information. The preferences you set after installing are set as your default profile. Pro plans allow you to create additional profiles and quickly switch between them for different work environments.",
     "Profile-Description-FreeAddendum": "You are on a free account. {0} to create multiple 프로필s.",
     "Profile-Description-UpgradeLinkText": "Upgrade your plan",
     "Profile-EditProfile": "프로필 편집",
@@ -954,7 +954,7 @@
     "ProfileAccountMenu-Profile": "프로필",
     "ProfileAccountMenu-SignIntoDifferentAccount": "Sign into a different account",
 
-    "Profiles": "프로필s",
+    "Profiles": "프로필",
 
     "RefBar-NavigateToBranch": "Navigate to branch",
     "RefBar-GroupGitFlow": "GITFLOW",
