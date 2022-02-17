@@ -679,7 +679,7 @@
     "RewordCommitMessageHelperText": "Rewording this 커밋 message will cause {0} commits to be rebased.",
     "RewordInputTitle":"Reword 커밋 message",
     "CancelAmendPreviousCommitMessageButtonLabel": "Cancel Amend",
-    "CancelRewordPreviousCommitMessageButtonLabel": "",
+    "CancelRewordPreviousCommitMessageButtonLabel": "Cancel Reword",
     "RefreshTokenLabel": "Refresh Token",
     "OptIntoAnalyticsButtonLabel": "Send Analytics Data to GitKraken",
     "OptIntoAnalyticsCancelButtonLabel": "Don't Send Data",
