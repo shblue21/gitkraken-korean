@@ -2342,7 +2342,7 @@
         "ErrorMessage-RemoteRefBehindRemote": "Your remote branch is out of date. Please fetch {0} before pushing.",
         "ErrorMessage-RenameRefToRefFailed": "Could not rename {0} to '{1}'",
         "ErrorMessage-RenameTargetAlreadyExists": "'{0}' already exists!",
-        "ErrorMessage-RepoDeleteFailed": "Repository {0} could not be deleted!",
+        "ErrorMessage-RepoDeleteFailed": "{0} 저장소를 삭제할 수 없습니다!",
         "ErrorMessage-ResetFailedWithReason": "Could not reset for the following reason: {0}",
         "ErrorMessage-WindowsShPathNotFound": "This repo has Git hooks. Using Git hooks on Windows requires sh.exe, but GitKraken couldn't find it.",
         "ErrorMessage-SomethingWentWrongAndRestartGK": "Something went wrong. Please try restarting GitKraken.",
