@@ -1772,7 +1772,7 @@
         "PromptForCreds-IncorrectServiceSSHPassphrase": "Incorrect passphrase for {0} SSH key. Try again:",
         "PromptForCreds-PasswordPlaceholder": "Password",
         "PromptForCreds-LocksIcon": "Caps Lock 활성화 됨",
-        "PromptForCreds-PleaseLogIn": "Please log in to {0} to continue:",
+        "PromptForCreds-PleaseLogIn": "계속하려면 {0} 에 로그인 : ",
         "PromptForCreds-InvalidLogin": "Invalid login for {0}. Try again:",
         "PromptForCreds-UsernamePlaceholder": "Username",
         "PromptForCreds-EnterUsername": "What username should we use to connect you to {0}?",
