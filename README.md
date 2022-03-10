@@ -1,5 +1,5 @@
 # gitkraken-korean
-
+![Translation](https://img.shields.io/badge/Translation-31%25-green)
 > GitKraken 한글패치(한글화)
 
 
