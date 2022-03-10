@@ -23,3 +23,4 @@
 - revert -> 되돌리기
 - member -> 구성원
 - panel -> 패널
+- tab list -> 탭 목록
