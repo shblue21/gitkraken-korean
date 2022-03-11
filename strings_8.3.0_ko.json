@@ -1,7 +1,7 @@
 {
     "languageOption": {
-        "label": "English (US)",
-        "value": "en-us"
+        "label": "Korean (KR)",
+        "value": "ko-kr"
     },
     "menuStrings": {
         "ProductName": "<%= productName %>",
@@ -16,7 +16,7 @@
         "UpdateAvailableDownloadRpm": ".rpm 파일 다운로드",
         "UpdateAvailableDownloadTargz": ".tar.gz 파일 다운로드",
         "UpdateDownloadedShowFile": "업데이트 다운로드 됨 (파일 보기)",
-        "UpdateErroredAtTime": "업데이트 에러 <%= updateErrorTime %>",
+        "UpdateErroredAtTime": "업데이트 오류 <%= updateErrorTime %>",
         "DownloadingUpdate": "업데이트 다운로드 중...",
         "DownloadUpdate": "업데이트 다운로드",
         "Preferences": "환경설정(P)...",
@@ -110,7 +110,7 @@
         "Help": "도움말(H)",
         "&Help": "도움말(&H)",
         "ViewSupportDocs": "지원 문서 보기",
-        "ViewErrorLogs": "에러 로그 보기",
+        "ViewErrorLogs": "오류 로그 보기",
         "ViewPerformanceLogs": "성능 로그 보기",
         "ViewActivityLogs": "활동 로그 보기",
         "SendUsFeedback": "피드백 보내기",
@@ -465,7 +465,7 @@
         "FuzzyFinder-ToggleToolbar": "Toolbar 설정/해제",
         "FuzzyFinder-ToggleToolbarLabels": "Toolbar Labels 설정/해제",
         "FuzzyFinder-ViewFile": "파일 보기",
-        "FuzzyFinder-ViewErrorLogs": "에러 로그 보기",
+        "FuzzyFinder-ViewErrorLogs": "오류 로그 보기",
         "FuzzyFinder-ViewPerformanceLogs": "성능 로그 보기",
         "FuzzyFinder-ViewReleaseNotes": "Release Notes 보기",
         "FuzzyFinder-ViewReleaseNotesKeywords": "patch notes changelog",
@@ -1096,7 +1096,7 @@
         "Jira-GIJMessage": "The Git Integration for Jira allows developers to review branches, commits, and pull requests directly in Jira. With this app installed on your Jira instance and the GitKraken Jira integration connected, you'll be able to quickly navigate between viewing file and commit diffs in both GitKraken and Jira.",
         "Jira-GIJIsInstalled": "App is installed on your Jira instance",
         "Jira-GIJNotInstalled": "Ask an admin to install this app on your Jira instance",
-        "JiraFilterForm-JqlError": "JQL 에러",
+        "JiraFilterForm-JqlError": "JQL 오류",
         "JiraFilterForm-JqlLabel": "Query (JQL)",
         "JiraFilterForm-JqlEmpty": "JQL은 필수 입니다.",
         "JiraFilterForm-JqlMissingProject": "JQL must contain 'project = \"{0}\"'",
@@ -2166,7 +2166,7 @@
         "Trial-ProFeatures": "Pro features",
         "Trial-PremiumFeatures": "paid features",
         "Trial-StartXDayTrial": "Start {0}-Day Pro Trial",
-        "Error": "에러",
+        "Error": "오류",
         "Error-AddExternalSSHKeyToServiceFailed": "SSH Key 추가 실패 ",
         "Error-AmendFailed": "수정 실패",
         "Error-AnnotateTagFailed": "Annotate Tag Failed",
@@ -2199,7 +2199,7 @@
         "Error-FetchAllPullRequestsFailed": "Fetching pull requests failed",
         "Error-GenerateDiff3Failed": "Generating diff for conflict failed",
         "Error-GenerateSshKeyAndAddToServiceFailed": "SSH key creation failed",
-        "Error-Generic": "에러 발생",
+        "Error-Generic": "오류 발생",
         "Error-GitConfigUpdate": "git config를 업데이트할 수 없습니다.",
         "Error-GitFlowFinishFeatureFailed": "Failed to finish feature '{0}'",
         "Error-GitFlowFinishHotfixFailed": "Failed to finish hotfix '{0}'",
