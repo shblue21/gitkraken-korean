@@ -25,3 +25,7 @@
 - panel -> 패널
 - tab list -> 탭 목록
 - ERROR -> 오류
+- Private Repository -> 비공개 저장소
+- Public Repostiry -> ? 공개 저장소 ?
+- Pull Request -> ? 풀리퀘스트 ?
+- Discard -> ? ? 
