@@ -7,7 +7,7 @@
 
 GitKraken 한글패치 입니다.  
 8.3.0 버전 기준 번역중에 있으며,  
-3921 라인중 약 1200라인 번역하였습니다. (약 30%)  
+3921 라인중 약 1400라인 번역하였습니다. (약 34%)  
 ![Main](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/images/main.png)
 
 
