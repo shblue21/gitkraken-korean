@@ -29,3 +29,4 @@
 - Public Repostiry -> ? 공개 저장소 ?
 - Pull Request -> ? 풀리퀘스트 ?
 - Discard -> ? ? 
+- fetch -> 페치
