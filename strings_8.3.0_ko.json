@@ -2188,7 +2188,7 @@
         "Error-CreateRemoteRepoFailed": "저장소 생성 실패",
         "Error-DefaultBranchNotFound": "Default branch not found",
         "Error-DeleteFileFailed": "Delete file at path failed: {0}.",
-        "Error-DeleteFailedWithName": "Delete Failed: {0}",
+        "Error-DeleteFailedWithName": "삭제 실패: {0}",
         "Error-DeleteFailedWithNamesTagForRemote": "Delete Failed: {0} for {1}",
         "Error-Diff3DoesNotExist": "Could not find diff to perform action",
         "Error-Diff3UpdateFailed": "Failed to update diff",
