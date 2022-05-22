@@ -8,7 +8,7 @@
 GitKraken 한글패치 입니다.  
 8.3.0 버전 기준 번역중에 있으며,  
 3921 라인중 약 1500라인 번역하였습니다. (약 40%)  
-![Main](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/images/main.png)
+![Main](images/main.png)
 
 
 
@@ -23,7 +23,7 @@ GitKraken 한글패치 입니다.
 5. strings_8.3.0_ko.json을 src로 복사하세요.
 6. strings_8.3.0_ko.json을 strings.json 으로 변경하세요.
 7. UI Customization 옵션으로 가서 Language를 Korean으로 변경하세요
-![uicustomize](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/images/uicustomize.png)
+![uicustomize](images/uicustomize.png)
   
   
 <!--   - Linux : ~/.gitkraken/themes  -->
