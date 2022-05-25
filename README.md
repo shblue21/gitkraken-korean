@@ -14,15 +14,17 @@ GitKraken 한글화 입니다.
 
 ## 언어 변경
 
-1. strings_8.3.0_ko.json 파일 다운.
-2. 다음 경로로 이동.
-   - 윈도우 : `%LOCALAPPDATA%\gitkraken\app-8.3.0\resources\app.asar.unpacked\src`
+### Script 사용
+
+### 직접 변경
+1. 다음 경로로 이동.
+   - 윈도우 : `%LOCALAPPDATA%\gitkraken\app-8.x.x\resources\app.asar.unpacked\src`
    - Mac: `/Applications/GitKraken.app/Contents/Resources/app.asar.unpacked/src/`
-3. src\en 폴더를 생성.
-4. strings.json 파일을 src\en 폴더로 옮기세요.
-5. strings_8.3.0_ko.json을 src로 복사하세요.
-6. strings_8.3.0_ko.json을 strings.json 으로 변경하세요.
-7. UI Customization 옵션으로 가서 Language를 Korean으로 변경하세요
+2. `app.asar.unpacked\src\en` 폴더 생성.
+3. `app.asar.unpacked\src\strings.json` 파일 `src\en` 폴더로 이동.
+4. [`resources\ko\lastest\strings.json`](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/resources/ko/lastest/strings.json)파일 다운.
+5. `app.asar.unpacked/src`에 복사
+6. UI Customization 옵션에서 Language를 Korean으로 변경.
 ![uicustomize](.github/images/uicustomize.png)
   
 
