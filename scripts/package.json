@@ -1,0 +1,19 @@
+{
+  "name": "gitkraken-korean",
+  "version": "1.0.0",
+  "description": "![Translation](https://img.shields.io/badge/Translation-37%25-green)\r > GitKraken 한글화",
+  "scripts": {
+    "compare": "node .\\utils\\compare.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shblue21/gitkraken-korean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shblue21/gitkraken-korean/issues"
+  },
+  "homepage": "https://github.com/shblue21/gitkraken-korean#readme",
+  "dependencies": {}
+}
