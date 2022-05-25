@@ -14,7 +14,8 @@ GitKraken 한글화 입니다.
 
 ## 언어 변경
 
-### Script 사용
+### Script 실행
+- [Release](https://github.com/shblue21/gitkraken-korean/releases) 다운 후 스크립트 실행 (윈도우)
 
 ### 직접 변경
 1. 다음 경로로 이동.
@@ -22,7 +23,7 @@ GitKraken 한글화 입니다.
    - Mac: `/Applications/GitKraken.app/Contents/Resources/app.asar.unpacked/src/`
 2. `app.asar.unpacked\src\en` 폴더 생성.
 3. `app.asar.unpacked\src\strings.json` 파일 `src\en` 폴더로 이동.
-4. [`resources\ko\lastest\strings.json`](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/resources/ko/lastest/strings.json)파일 다운.
+4. [`resources\ko\lastest\strings.json`](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/resources/ko/lastest/strings.json) 파일 다운.
 5. `app.asar.unpacked/src`에 복사
 6. UI Customization 옵션에서 Language를 Korean으로 변경.
 ![uicustomize](.github/images/uicustomize.png)
