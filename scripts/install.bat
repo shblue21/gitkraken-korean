@@ -36,5 +36,6 @@ copy %asarDir%\strings.json %asarDir%\.back\strings.json >NUL
 copy ..\resources\ko\lastest\strings.json %asarDir%\strings.json >NUL
 
 echo Copy translations strings is done : %asarDir%\strings.json
-echo Origin(en) translations strings backup : %asarDir%\.back\strings.json
+echo Origin(en) translations strings backup at : %asarDir%\.back\strings.json
 echo Please run Gk and go to Settings ^> Preferences ^> UI Customization ^> Language ^> Select Korean
+pause 

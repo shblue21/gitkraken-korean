@@ -34,3 +34,4 @@ GitKraken 한글화 입니다.
 - 오역을 발견하거나, 번역하신경우 Pull-Request 주시면 감사드리겠습니다.
 
 ## License
+[MIT License](https://raw.githubusercontent.com/shblue21/gitkraken-korean/main/LICENSE)
