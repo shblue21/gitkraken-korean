@@ -1,16 +1,8 @@
 const FileSystem = require("fs");
-var enJson = require("../resources/en/8.5.0/strings.json");
+var enJson = require("../resources/en/8.7.0/strings.json");
 var koJson = require("../resources/ko/8.5.0/strings.json");
 
-// enJson.array.forEach(element => {
-//     if (koJson.array.indexOf(element) === -1) {
-//         console.log(element);
-//     }
-// });
-
 compare(enJson, koJson);
-
-
 
 FileSystem.writeFile('overwrite.json', JSON.stringify(enJson), (error) => {
   if (error) throw error;
