@@ -1,13 +1,13 @@
 # gitkraken-korean
-![Translation](https://img.shields.io/badge/Translation-40%25-green)
+![Translation](https://img.shields.io/badge/Translation-43%25-green)
 > GitKraken 한글화
 
 
 ## 개요
 
 GitKraken 한글화 입니다.  
-8.5.0 버전 기준 번역중에 있으며,  
-약 4000라인 중 약 1500라인 번역하였습니다. (약 40%)  
+8.8.0 버전 기준 번역중에 있으며,  
+약 4000라인 중 약 1700라인 번역하였습니다. (약 43%)  
 ![Main](.github/images/main.png)
 
 
