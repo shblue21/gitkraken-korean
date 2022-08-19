@@ -1,6 +1,6 @@
 const FileSystem = require("fs");
-var enJson = require("../resources/en/8.7.0/strings.json");
-var koJson = require("../resources/ko/8.5.0/strings.json");
+var enJson = require("../resources/en/8.8.0/strings.json");
+var koJson = require("../resources/ko/8.7.0/strings.json");
 
 compare(enJson, koJson);
 
