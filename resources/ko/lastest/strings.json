@@ -760,7 +760,7 @@
     "ContextMenu-CopyDeepLinkFailedNoRemoteUrl": "원격 url을 찾을 수 없음.",
     "ContextMenu-CopyDeepLinkForBranch": "이 브랜치에 대한 링크 복사: {0}",
     "ContextMenu-CopyDeepLinkForCommit": "이 커밋에 대한 링크 복사",
-    "ContextMenu-CopyDeepLinkForCommitOnRemote": "이 원격 커밋에 대한 링크 복사: {0}",
+    "ContextMenu-CopyDeepLinkForCommitOnRemote": "원격에서 이 커밋에 대한 링크 복사: {0}",
     "ContextMenu-CopyDeepLinkForRemote": "이 원격 링크 복사: {0}",
     "ContextMenu-CopyDeepLinkForTag": "이 태그에 대한 링크 복사: {0}",
     "ContextMenu-CopyDeepLinkForTagOnRemote": "이 원격 태그에 대한 링크 복사: {0}",
