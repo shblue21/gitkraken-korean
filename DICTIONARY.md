@@ -20,13 +20,16 @@
   - 스테이징 등 고민하였으나, 원문인 스테이지로,,
 - sha -> 해시 
   - 해시값 or 해시등 고민하였으나 해시로 ,,
-- revert -> 되돌리기
+- revert -> 되돌리기(revert)
 - member -> 구성원
 - panel -> 패널
 - tab list -> 탭 목록
 - ERROR -> 오류
 - Private Repository -> 비공개 저장소
 - Public Repostiry -> ? 공개 저장소 ?
-- Pull Request -> ? 풀리퀘스트 ?
+- Pull Request -> 풀 리퀘스트
 - Discard -> ? ? 
 - fetch -> 페치
+- patch -> 패치
+- shortcuts -> 바로 가기 키
+- Activity Log -> 활동 로그 
