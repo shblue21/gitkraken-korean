@@ -2586,7 +2586,7 @@
     "PullRequestView-CopyPullRequestLink": "클립보드에 풀 리퀘스트 링크 복사",
     "PullRequestView-DeleteBranch": "브랜치 삭제",
     "PullRequestView-DeleteLocalRefs": "로컬 브랜치 삭제",
-    "PullRequestView-FileChanged": "1 file changed",
+    "PullRequestView-FileChanged": "1 파일 변경됨",
     "PullRequestView-FilesChangedX": "{0} files changed",
     "PullRequestView-FilesChangedNotFound": "Files changed not found",
     "PullRequestView-FinishReview": "Finish Review",
