@@ -33,3 +33,4 @@
 - patch -> 패치
 - shortcuts -> 바로 가기 키
 - Activity Log -> 활동 로그 
+- Title -> 제목
