@@ -2573,7 +2573,7 @@
     "PullRequestView-Commented": "commented",
     "PullRequestView-CommentPending": "Pending",
     "PullRequestView-CommentSubText": "Submit general feedback without explicit approval.",
-    "PullRequestView-ConfirmX": "Confirm {0}",
+    "PullRequestView-ConfirmX": "{0} 확인",
     "PullRequestView-ContinuousIntegrationAllFailed": "All checks have failed",
     "PullRequestView-ContinuousIntegrationAllPassed": "All checks have passed",
     "PullRequestView-ContinuousIntegrationCheck": "{0} check",
