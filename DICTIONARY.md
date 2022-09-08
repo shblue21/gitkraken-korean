@@ -20,8 +20,8 @@
   - 스테이징 등 고민하였으나, 원문인 스테이지로,,
 - sha -> 해시 
   - 해시값 or 해시등 고민하였으나 해시로 ,,
-- revert -> 되돌리기(revert)
-- member -> 구성원
+- revert -> ???
+- member -> ???
 - panel -> 패널
 - tab list -> 탭 목록
 - ERROR -> 오류
