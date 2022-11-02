@@ -34,3 +34,6 @@
 - shortcuts -> 바로 가기 키
 - Activity Log -> 활동 로그 
 - Title -> 제목
+- base branch : 베이스 브랜치
+- issue : 이슈
+- submit : 제출

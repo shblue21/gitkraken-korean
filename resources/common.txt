@@ -1,4 +1,0 @@
-pull request : 풀 리쉐크트 요청
-base branch : 베이스 브랜치
-issue : 이슈
-submit : 제출
