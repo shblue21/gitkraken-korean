@@ -37,3 +37,4 @@
 - base branch : 베이스 브랜치
 - issue : 이슈
 - submit : 제출
+- integrate : 연동
