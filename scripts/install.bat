@@ -1,4 +1,14 @@
 @echo off
+@REM ECHO EMPTY LINE
+echo.
+echo  ############################################################
+echo  #                                                          #
+echo  #                                                          #
+echo  #           Gitkraken Korean Install Script                #
+echo  #                                                          #
+echo  #                                                          #
+echo  ############################################################
+echo.
 
 @REM Set gitkrakenRootPath %LOCALAPPDATA%/Gitkraken to the default Gitkraken location.
 set gkRootFolder=%LOCALAPPDATA%\Gitkraken
@@ -37,5 +47,9 @@ copy ..\resources\ko\lastest\strings.json %asarDir%\strings.json >NUL
 
 echo Copy translations strings is done : %asarDir%\strings.json
 echo Origin(en) translations strings backup at : %asarDir%\.back\strings.json
+
+
+echo. 
 echo Please run Gk and go to Settings ^> Preferences ^> UI Customization ^> Language ^> Select Korean
+echo. 
 pause 
