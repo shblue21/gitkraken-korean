@@ -38,3 +38,9 @@
 - issue : 이슈
 - submit : 제출
 - integrate : 연동
+- required fields : 필수 항목
+- rebase : ?
+- squash : ?
+- review : ?
+- comment : ?
+- Issue Tracker : ?
