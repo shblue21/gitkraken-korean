@@ -2194,7 +2194,7 @@
     "OrganizationMember-MaxMembersTrialPlural": "A trial organization allows a maximum of 50 members, you can only add up to {0} users",
     "OrganizationMember-NotValidEmail": "{0}은(는) 유효한 이메일이 아닙니다.",
     "OrganizationMember-Role": "역할",
-    "OrganizationMember-SuggestedMembers": "Suggested Members",
+    "OrganizationMember-SuggestedMembers": "추천 멤버",
     "OrganizationMember-SuggestedMembersSubTitle": "Contributors to the {0} repository",
     "OrganizationMember-User": "User",
     "Organization-Members": "Members",
