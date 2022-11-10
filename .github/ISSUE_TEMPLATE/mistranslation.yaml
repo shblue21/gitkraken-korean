@@ -22,7 +22,7 @@ body:
       placeholder: 8.10.1 Pro
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: wrong
     attributes:
       label: 오역이 발견된 문장
@@ -30,7 +30,7 @@ body:
       placeholder: 로컬 키를 생성하려면 여기를 클릭하세요
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: wrong-screen
     attributes:
       label: 오역이 발견된 화면
@@ -38,7 +38,7 @@ body:
       placeholder: 설정 - SSH - 로컬
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: correct
     attributes:
       label: 올바른 문장
