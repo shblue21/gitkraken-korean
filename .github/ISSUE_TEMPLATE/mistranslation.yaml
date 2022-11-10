@@ -1,0 +1,48 @@
+name: 📖 오역 발견
+description: 오역을 발견하셨다면 이슈를 작성해주세요.
+labels: [area/documentation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        GitKraken 사용 중 오역을 발견하셨다면, 이슈를 작성해주세요.
+        하기 정보를 기입해주시면 감사하겠습니다.
+
+        - 사용중인 GitKraken 버전 및 Plan(e.g 8.10.1 Pro);
+        - 오역이 발견된 문장(e.g 로컬 키를 생성하려면 여기를 클릭하세요);
+        - 오역이 발견된 화면 (e.g 설정 - SSH - 로컬);
+        - 올바른 문장(e.g 로컬 키를 생성하려면 여기를 클릭하세요);
+
+        위 내용을 전부 입력하실 필요는 없으며, 작성 가능한 내용만 입력해주시면 됩니다.
+  - type: input
+    id: version
+    attributes:
+      label: GitKraken 버전 및 Plan
+      description: 사용중인 GitKraken 버전 및 Plan을 입력해주세요.
+      placeholder: 8.10.1 Pro
+    validations:
+      required: false
+  - type: textarea
+    id: wrong
+    attributes:
+      label: 오역이 발견된 문장
+      description: 오역이 발견된 문장을 입력해주세요.
+      placeholder: 로컬 키를 생성하려면 여기를 클릭하세요
+    validations:
+      required: false
+  - type: textarea
+    id: wrong-screen
+    attributes:
+      label: 오역이 발견된 화면
+      description: 오역이 발견된 화면을 입력해주세요.
+      placeholder: 설정 - SSH - 로컬
+    validations:
+      required: false
+  - type: textarea
+    id: correct
+    attributes:
+      label: 올바른 문장
+      description: 올바른 문장을 입력해주세요.
+      placeholder: 로컬 키를 생성하려면 여기를 클릭하세요
+    validations:
+      required: false
