@@ -6,13 +6,14 @@
 | :-------------------: | :---------------------------: | :--: |
 |    commit template    |          커밋 템플릿          |      |
 | destructive operation | 이 작업은 되돌릴 수 없습니다. |      |
-|         prune         |          페치(정리)           |      |
+|         prune         |             페치              |      |
 |         amend         |             수정              |      |
 |         plan          |             플랜              |      |
 |         Solo          |               ?               |      |
 |         Blame         |               ?               |      |
 |        remote         |             원격              |      |
 |         stage         |           스테이지            |      |
+|         stash         |            스태시             |      |
 |          sha          |             해시              |      |
 |        revert         |               ?               |      |
 |  Private Repository   |         비공개 저장소         |      |
@@ -44,3 +45,5 @@
 |     Toggle      |    설정/해제     |      |
 |   preferences   | 환경설정 or 설정 |      |
 |    shortcuts    |   바로 가기 키   |      |
+
+ㄽ
