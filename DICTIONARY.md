@@ -46,3 +46,4 @@
 |     Toggle      |    설정/해제     |      |
 |   preferences   | 환경설정 or 설정 |      |
 |    shortcuts    |   바로 가기 키   |      |
+| organization(s) |       조직       |      |
