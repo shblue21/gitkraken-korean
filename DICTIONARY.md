@@ -6,7 +6,7 @@
 | :-------------------: | :---------------------------: | :--: |
 |    commit template    |          커밋 템플릿          |      |
 | destructive operation | 이 작업은 되돌릴 수 없습니다. |      |
-|         prune         |             페치              |      |
+|         prune         |               ?               |      |
 |         amend         |             수정              |      |
 |         plan          |             플랜              |      |
 |         Solo          |               ?               |      |
@@ -30,7 +30,9 @@
 |        review         |               ?               |      |
 |        comment        |               ?               |      |
 |     Issue Tracker     |               ?               |      |
-|      cherry pick      |            체리픽             |      |
+|      cherry pick      |            체리 픽            |      |
+|         Blame         |               ?               |      |
+|     Contributors      |            기여자             |      |
 
 ## Common
 
