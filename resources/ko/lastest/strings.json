@@ -1853,7 +1853,7 @@
     "PromptForDeleteRepo-Delete": "저장소 삭제",
     "PromptForDeleteRepo-Message": "{0} 저장소를 영구적으로 삭제하시겠습니까?",
     "PromptIgnore-Message": "'{0}' 무시?",
-    "PromptIgnoreMultiple-Message": "{0} 파일 무시?",
+    "PromptIgnoreMultiple-Message": "{0}개 파일 무시?",
     "PromptIgnore-Ignore": "무시",
     "PromptIgnore-IgnoreAndUntrack": "Ignore and Stop Tracking",
     "PromptNewBranchAtRemote-BranchNamePlaceholder": "브랜치 이름",
