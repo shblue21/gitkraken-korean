@@ -31,7 +31,15 @@ for /f "delims=" %%a in ('dir  %gkRootFolder% /ad /b /o:-n') do (
 endlocal
 :next
 
-echo Found GitKraken lastest version : %appRawDir%
+set appVersion=%appRawDir:app-=%
+echo Found GitKraken version : %appVersion%
+echo.
+
+@REM check directory exists, in project `..\resources\ko\$version`
+set versionExist=0
+if exist ..\resources\ko\%appVersion% (
+    set versionExist=1
+)
 
 @REM Copy Translations resource json file to AppData\Local\Gitkraken\app-8.5.0\resources\app.asar.unpacked\src\strings.json
 set appDir=%gkRootFolder%\%appRawDir%
@@ -43,9 +51,14 @@ copy %asarDir%\strings.json %asarDir%\en\strings.json >NUL
 if not exist %asarDir%\.back mkdir %asarDir%\.back
 copy %asarDir%\strings.json %asarDir%\.back\strings.json >NUL
 
-copy ..\resources\ko\lastest\strings.json %asarDir%\strings.json >NUL
+if %versionExist%==1 (
+    copy ..\resources\ko\%appVersion%\strings.json %asarDir%\strings.json >NUL
+) else (
+    copy ..\resources\ko\latest\strings.json %asarDir%\strings.json >NUL
+)
 
 echo Copy translations strings is done : %asarDir%\strings.json
+echo .
 echo Origin(en) translations strings backup at : %asarDir%\.back\strings.json
 
 
