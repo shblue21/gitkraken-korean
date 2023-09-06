@@ -307,7 +307,7 @@
     "CommitterLabel": "committed",
     "CommitLabel": "커밋:",
     "CommitLabelBadge": "커밋:",
-    "ParentLabel": "부모:",
+    "ParentLabel": "parent:",
     "ParentLabelBadge": "PARENT:",
     "CheckingOutBranch": "브랜치 체크아웃 중...",
     "ConnectingWithEllipsis": "연결 중...",

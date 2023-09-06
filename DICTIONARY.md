@@ -45,8 +45,9 @@
 |     comment     |     커멘트     |                                           |
 |  Issue Tracker  |  이슈 트래커   |                                           |
 |   cherry pick   |    체리 픽     |                                           |
-|      blame      | 블레임(blame)  |
+|      blame      | 블레임(blame)  |                                           |
 |  contributors   |     기여자     |                                           |
+|     parent      |      부모      |      Ui가 깨지는 부분은 Parent 병기       |
 
 ## IT
 
