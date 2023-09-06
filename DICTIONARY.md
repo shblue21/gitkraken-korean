@@ -19,35 +19,38 @@
 
 ## Git/GitKraken 관련
 
-|      단어       |      번역      |                   비고                    |
-| :-------------: | :------------: | :---------------------------------------: |
-| commit template |  커밋 템플릿   |                                           |
-|      prune      |  프룬(prune)   |                                           |
-|      amend      |      수정      |                                           |
-|      plan       |      플랜      |                                           |
-|      Solo       |      Solo      | GitKraken에서 특정 브랜치를 강조하는 기능 |
-|     remote      |      원격      |                                           |
-|      stage      |    스테이지    |                                           |
-|      stash      |     스태시     |                                           |
-|       sha       |      해시      |                                           |
-|     revert      | 리버트(revert) |                                           |
-|   repository    |     저장소     |                                           |
-|     discard     |      폐기      |                                           |
-|      fetch      |      페치      |                                           |
-|      patch      |      패치      |                                           |
-|  Activity Log   |   활동 로그    |              GitKraken 로그               |
-|     branch      |     브랜치     |                                           |
-|      issue      |      이슈      |                                           |
-|    integrate    |      연동      |                                           |
-|     rebase      |    리베이스    |                                           |
-|     squash      | 스쿼시(squash) |                                           |
-|     review      |       ?        |                                           |
-|     comment     |     커멘트     |                                           |
-|  Issue Tracker  |  이슈 트래커   |                                           |
-|   cherry pick   |    체리 픽     |                                           |
-|      blame      | 블레임(blame)  |                                           |
-|  contributors   |     기여자     |                                           |
-|     parent      |      부모      |      Ui가 깨지는 부분은 Parent 병기       |
+|      단어       |      번역       |                   비고                    |
+| :-------------: | :-------------: | :---------------------------------------: |
+| commit template |   커밋 템플릿   |                                           |
+|      prune      |      프룬       |                                           |
+|      amend      |      수정       |                                           |
+|      plan       |      플랜       |                                           |
+|      Solo       |      Solo       | GitKraken에서 특정 브랜치를 강조하는 기능 |
+|     remote      |      원격       |                                           |
+|      stage      |    스테이지     |                                           |
+|      stash      |     스태시      |                                           |
+|       sha       |      해시       |                                           |
+|     revert      |     리버트      |                                           |
+|   repository    |     저장소      |                                           |
+|     discard     |      폐기       |                                           |
+|      fetch      |      페치       |                                           |
+|      patch      |      패치       |                                           |
+|  Activity Log   |    활동 로그    |              GitKraken 로그               |
+|     branch      |     브랜치      |                                           |
+|      issue      |      이슈       |                                           |
+|    integrate    |      연동       |                                           |
+|     rebase      |    리베이스     |                                           |
+|     squash      |     스쿼시      |                                           |
+|     comment     |     커멘트      |                                           |
+|  Issue Tracker  |   이슈 트래커   |                                           |
+|   cherry pick   |     체리픽     |                                           |
+|      blame      |     블레임      |                                           |
+|  contributors   |     기여자      |                                           |
+|     parent      |      부모       |      Ui가 깨지는 부분은 Parent 병기       |
+| pull request(s) |   풀 리퀘스트   |                                           |
+|   review(er)    |    리뷰(어)     |                                           |
+| fast forward(s) | Fast forward(s) |                                           |
+|    check out    |    체크 아웃    |                                           |
 
 ## IT
 
