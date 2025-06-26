@@ -71,6 +71,25 @@
 | status | 상태 | |
 | init | 초기화 | |
 | pull request | 풀 리퀘스트 | |
+| merge request | 머지 리퀘스트 | GitLab 용어 |
+| workflow | 워크플로 | |
+| pipeline | 파이프라인 | |
+| deployment | 배포 | |
+| release | 릴리스 | |
+| hotfix | 핫픽스 | |
+| feature | 기능 | feature branch: 기능 브랜치 |
+| bugfix | 버그픽스 | |
+| refactor | 리팩터 | |
+| rollback | 롤백 | |
+| snapshot | 스냅샷 | |
+| artifact | 아티팩트 | |
+| binary | 바이너리 | |
+| executable | 실행 파일 | |
+| script | 스크립트 | |
+| hook | 훅 | Git hooks |
+| webhook | 웹훅 | |
+| endpoint | 엔드포인트 | |
+| payload | 페이로드 | |
 
 ## GitKraken 고유
 
@@ -89,6 +108,16 @@
 | Diff View | 차이점 보기 | |
 | Blame View | 블레임 보기 | |
 | History View | 히스토리 보기 | |
+| Deep Link | 딥 링크 | GitKraken 내부 링크 |
+| Fuzzy Finder | 퍼지 파인더 | 명령 팔레트 |
+| Command Palette | 명령 팔레트 | |
+| Git Integration | Git 연동 | |
+| Merge Conflict Editor | 머지 충돌 편집기 | |
+| Interactive Rebase | 인터랙티브 리베이스 | |
+| Commit Template | 커밋 템플릿 | |
+| Git Flow | Git 플로 | |
+| GitHub Flow | GitHub 플로 | |
+| GitLab Flow | GitLab 플로 | |
 
 ## 일반 IT
 
@@ -232,3 +261,44 @@
 | port | 포트 | |
 | proxy | 프록시 | |
 | firewall | 방화벽 | |
+| automation | 자동화 | |
+| continuous | 지속적 | |
+| devops | 데브옵스 | |
+| agile | 애자일 | |
+| scrum | 스크럼 | |
+| kanban | 칸반 | |
+| sprint | 스프린트 | |
+| backlog | 백로그 | |
+| epic | 에픽 | |
+| story | 스토리 | |
+| task | 작업 | |
+| subtask | 하위 작업 | |
+| acceptance criteria | 인수 기준 | |
+| definition of done | 완료 정의 | |
+| velocity | 속도 | |
+| burndown | 번다운 | |
+| retrospective | 회고 | |
+| standup | 스탠드업 | |
+| planning | 계획 | |
+| estimation | 추정 | |
+| grooming | 그루밍 | |
+| refinement | 정제 | |
+| config | 설정 | |
+| configuration | 구성 | |
+| environment | 환경 | |
+| variable | 변수 | |
+| secret | 시크릿 | |
+| credential | 자격 증명 | |
+| encryption | 암호화 | |
+| decryption | 복호화 | |
+| hash | 해시 | |
+| checksum | 체크섬 | |
+| signature | 서명 | |
+| verification | 검증 | |
+| validation | 유효성 검사 | |
+| sanitization | 새니타이제이션 | |
+| escaping | 이스케이핑 | |
+| encoding | 인코딩 | |
+| decoding | 디코딩 | |
+| compression | 압축 | |
+| decompression | 압축 해제 | |
